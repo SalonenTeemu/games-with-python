@@ -1,6 +1,6 @@
 # games-with-python
 
-This repository contains some simple games implemented with Python.
+This repository contains some simple games implemented with Python as independent course exercises.
 
 ## Running the games
 
